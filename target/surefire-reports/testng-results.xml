@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="67630" started-at="2020-04-21T18:27:16 BST" finished-at="2020-04-21T18:28:24 BST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="67630" started-at="2020-04-21T18:27:16 BST" finished-at="2020-04-21T18:28:24 BST">
+      <class name="cukes.grid.parallel.runners.ProductSearchRunnerTest">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:cukes.grid.parallel.runners.ProductSearchRunnerTest@4b4523f8]" name="runCukes" duration-ms="50209" started-at="2020-04-21T18:27:16 BST" finished-at="2020-04-21T18:28:06 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- cukes.grid.parallel.runners.ProductSearchRunnerTest -->
+      <class name="cukes.grid.parallel.runners.SearchOnChromeRunner">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:cukes.grid.parallel.runners.SearchOnChromeRunner@731a74c]" name="runCukes" duration-ms="18685" started-at="2020-04-21T18:28:05 BST" finished-at="2020-04-21T18:28:24 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- cukes.grid.parallel.runners.SearchOnChromeRunner -->
+      <class name="cukes.grid.parallel.runners.SearchRunnerTest">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:cukes.grid.parallel.runners.SearchRunnerTest@5a8e6209]" name="runCukes" duration-ms="48905" started-at="2020-04-21T18:27:16 BST" finished-at="2020-04-21T18:28:05 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- cukes.grid.parallel.runners.SearchRunnerTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
